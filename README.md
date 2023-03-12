@@ -9,8 +9,6 @@
 >**School:國立臺灣師範大學(NTNU)**  
 >**Class:科技系二年級**  
 
-課程筆記區
-
-作業連結區
+## HW & Exercises
 
 [Leetcode-Roman to Integer(Hw1)](https://youtu.be/N-W8owIbUX4)
