@@ -19,7 +19,7 @@
 
 [Leetcode-Fair Candy Swap(Hw3)](https://youtu.be/0wKVKfhBU3I)
 
-[Leetcode-Ugly Number(Hw4)](https://youtu.be/wzPXNTf8Ino)
+[Leetcode-Find Center of Star Graph(Hw4)](https://youtu.be/W440vPYtcjI)
 
 [Leetcode-Best Time to Buy and Sell Stock(Hw5)](https://youtu.be/QtVKjzKG8Uk)
 
@@ -27,3 +27,5 @@
 
 自主練習
 [Two Sum](https://youtu.be/vuM-ge24r-c)
+
+[Ugly Number(Hw4)](https://youtu.be/wzPXNTf8Ino)
