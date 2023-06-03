@@ -29,4 +29,4 @@
 
 [Two Sum](https://youtu.be/vuM-ge24r-c)
 
-[Ugly Number(Hw4)](https://youtu.be/wzPXNTf8Ino)
+[Ugly Number](https://youtu.be/wzPXNTf8Ino)
