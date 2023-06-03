@@ -19,4 +19,4 @@
 
 [Leetcode-Ugly Number(Hw4)](https://youtu.be/wzPXNTf8Ino)
 
-期末Leetcode成果發表
+[期末Leetcode成果發表](https://youtu.be/aWhtQWcPpoM)
