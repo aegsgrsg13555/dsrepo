@@ -19,4 +19,6 @@
 
 [Leetcode-Ugly Number(Hw4)](https://youtu.be/wzPXNTf8Ino)
 
+[Leetcode-Best Time to Buy and Sell Stock(Hw5)](https://youtu.be/QtVKjzKG8Uk)
+
 [期末Leetcode成果發表](https://youtu.be/aWhtQWcPpoM)
