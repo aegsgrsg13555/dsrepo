@@ -17,10 +17,13 @@
 [Leetcode-Maximum 69 Number(Hw2)](https://youtu.be/-C-j_RLZ0c4)
 [Leetcode-Binary Tree Inorder Traversal(Hw2)](https://youtu.be/Z3a_RVUh6SM)
 
-[Leetcode-Two Sum(Hw3)](https://youtu.be/vuM-ge24r-c)
+[Leetcode-Fair Candy Swap(Hw3)](https://youtu.be/0wKVKfhBU3I)
 
 [Leetcode-Ugly Number(Hw4)](https://youtu.be/wzPXNTf8Ino)
 
 [Leetcode-Best Time to Buy and Sell Stock(Hw5)](https://youtu.be/QtVKjzKG8Uk)
 
 [期末Leetcode成果發表](https://youtu.be/aWhtQWcPpoM)
+
+自主練習
+[Two Sum](https://youtu.be/vuM-ge24r-c)
