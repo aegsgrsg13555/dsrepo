@@ -12,6 +12,7 @@
 ## HW & Exercises
 
 [Leetcode-Roman to Integer(Hw1)](https://youtu.be/N-W8owIbUX4)
+[Leetcode-Running Sum of 1d Array(Hw1)](https://youtu.be/Wrccv631H0I)
 
 [Leetcode-Maximum 69 Number(Hw2)](https://youtu.be/-C-j_RLZ0c4)
 
