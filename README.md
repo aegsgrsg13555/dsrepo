@@ -17,4 +17,6 @@
 
 [Leetcode-Two Sum(Hw3)](https://youtu.be/vuM-ge24r-c)
 
-[Leetcode-U(Hw4)](https://youtu.be/wzPXNTf8Ino)
+[Leetcode-Ugly Number(Hw4)](https://youtu.be/wzPXNTf8Ino)
+
+期末Leetcode成果發表
