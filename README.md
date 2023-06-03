@@ -28,7 +28,7 @@
 [Leetcode-Best Maximum Product of Two Elements in an Array
 (Hw5-2)](https://youtu.be/FXpNKMBhVhc)
 
-[期末Leetcode成果發表](https://youtu.be/aWhtQWcPpoM)
+[期末Leetcode成果發表](https://youtu.be/2IjNNERqt1Y)
 
 ## 自主練習
 
