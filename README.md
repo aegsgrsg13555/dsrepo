@@ -14,3 +14,5 @@
 [Leetcode-Roman to Integer(Hw1)](https://youtu.be/N-W8owIbUX4)
 
 [Leetcode-Maximum 69 Number(Hw2)](https://youtu.be/-C-j_RLZ0c4)
+
+[Leetcode-Two Sum(Hw3)](https://youtu.be/vuM-ge24r-c)
