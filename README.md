@@ -22,6 +22,8 @@
 [Leetcode-Find Center of Star Graph(Hw4)](https://youtu.be/W440vPYtcjI)
 
 [Leetcode-Best Time to Buy and Sell Stock(Hw5)](https://youtu.be/QtVKjzKG8Uk)
+[Leetcode-Best Maximum Product of Two Elements in an Array
+(Hw5)](https://youtu.be/FXpNKMBhVhc)
 
 [期末Leetcode成果發表](https://youtu.be/aWhtQWcPpoM)
 
